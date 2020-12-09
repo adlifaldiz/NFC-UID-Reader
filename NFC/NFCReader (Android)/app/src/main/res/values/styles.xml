@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+<!--        <item name="android:fontFamily">@font/varelaround</item>-->
+        <item name="colorPrimary">@color/custom_background</item>
+        <item name="colorPrimaryDark">@color/custom_background</item>
+        <item name="colorAccent">@color/custom_background</item>
+    </style>
+
+    <style name="textdefault">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
